@@ -1,0 +1,112 @@
+{
+Shopper Fact,60,1\
+Shopper Issue,60,2\
+Store Fact,60,3\
+Store Issue,60,4\
+Freshness,50,1\
+Unknown item location,45,2\
+Interest in promotions,45,1\
+Expected spending,40,1\
+Forget items,40,2\
+Shop for basic needs,40,1\
+Mental shopping list,35,1\
+Time consuming,35,2\
+Wait in line,35,2\
+Careful shopping,40,1\
+Unintended purchase,30,2\
+Pantry refill,30,1\
+Familiarity,30,1\
+Prefer to shop around,30,1\
+One place for everything,30,1\
+No budget planning,20,1\
+Stay at home,20,1\
+In-store promotion,20,3\
+Out of stock,20,1\
+Recipes,20,1\
+Annoying promoters,20,4\
+COVID safety,20,3\
+Follow store layout,20,1\
+Items arrangement,20,1\
+Low interest in promoters,20,1\
+Help other shoppers,20,1\
+Dissatisfied with online grocery shopping,20,4\
+Prefer store nearby,20,1\
+Shortest line,20,1\
+Social circles’ recommendations,15,1\
+Digital promotions,15,3\
+Manual calculation,15,1\
+Decision making,15,1\
+Cooking advices,15,1\
+Shopping upon availability,15,1\
+Shopping list on paper,15,1\
+Shopping list on phone,15,1\
+Routine shopping,15,1\
+Route optimization,15,1\
+Looking for alternatives,15,1\
+Avoid wasting,15,1\
+Budget planning,15,1\
+Low interest in seasonal sales,15,1\
+Purchase only if relevant,15,1\
+Maintenance,15,1\
+Age affects shopping,15,1\
+Bulk buying,15,1\
+Phone usage,15,1\
+Digital payment,15,1\
+Help is needed,15,2\
+Faster checkout line,15,1\
+No phone usage,15,1\
+Indecision,15,2\
+Accuracy of price calculation,15,1\
+Arrange by product types,15,3\
+Multi floor layout,15,3\
+Navigation signs,15,3\
+Shopping by needs,15,1\
+Teamwork,15,1\
+Leave shopping cart unattended,15,1\
+Discount,15,1\
+Food samples,15,1\
+Low phone usage,15,1\
+Phone communication,15,1\
+Unpopular digital payment,15,1\
+Mental calculation,15,1\
+Environment affects shopping,15,1\
+Communication between group shoppers,15,1\
+Word of mouth,15,1\
+Food safety,15,2\
+Bad navigation,15,4\
+Misleading signs,15,4\
+Variety of products,15,1\
+Lack of layout overview,15,1\
+Bad shopping cart management,15,1\
+Young people aren’t into promotions,15,1\
+Young people prefer fast foods,15,1\
+Unhealthy diet,15,2\
+Fast food,15,1\
+High phone usage by young shoppers,15,1\
+Group shopping takes more time,15,2\
+Avoid interaction with staff,15,1\
+Bad navigation signs,15,4\
+Assaultive promoter,15,4\
+Young people prefer junk food,15,1\
+Bread goes perfect with bubble tea,15,1\
+Different ways of travel,15,1\
+Ordering food,15,1\
+No digital payment,15,1\
+Unsuitable shopping cart size,15,4\
+Unknown item availability,15,2\
+Different times of shopping,15,1\
+Physical handouts,15,1\
+Neutral shopping experience,15,1\
+Availability of choices,15,3\
+Automated shopping,15,1\
+Shopping for multiple people,15,1\
+Navigate by product types,15,1\
+Need more product information,15,2\
+Physical list when more items,15,1\
+Infrequent shopping,15,1\
+Subconscious interest in promotion,15,1\
+Budget planning for big purchase,15,1\
+Lack of signage,15,4\
+Shop without planning,15,1\
+Convenience,15,1\
+}
